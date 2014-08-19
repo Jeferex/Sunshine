@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="city_name">Trujillo, Peru</string>
+    <string name="today_date">Today, August 18</string>
+    <string name="temp_min">Min: 17°C</string>
+    <string name="temp_max">Max: 20°C</string>
+    <string name="message">Sunny all day!</string>
+    <string name="show_more"><u>Show more ...</u></string>
+
+</resources>
